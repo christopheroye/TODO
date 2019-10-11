@@ -1,24 +1,12 @@
-# README
+# TODO
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Log your TODO task with this sample app!
 
-Things you may want to cover:
+## Features
+* Task Creation API -via RESTful JSON API
+* User form submission
+* Strikethrough for task completion
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![82ac0b4c11d0f12d2669fe3e5119ac5e _TODO](https://user-images.githubusercontent.com/50840199/66618519-efad8f80-eb9e-11e9-859f-0c6b4595079a.gif)
