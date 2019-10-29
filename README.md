@@ -1,6 +1,12 @@
 # TODO
 
-Log your TODO task with this sample app!
+ToDo list is a simple web application to save Your daily tasks in order not to miss anything.
+
+## Technologies used:
+HTML
+CSS
+Javascript
+Sublime Text Editor
 
 ## Features
 * Task Creation API -via RESTful JSON API
