@@ -1,6 +1,6 @@
 # TODO
 
-ToDo list is a simple web application to save Your daily tasks in order not to miss anything.
+TODO list is a simple web application to save your daily tasks so you stay on track!
 
 ## Technologies used:
 HTML
