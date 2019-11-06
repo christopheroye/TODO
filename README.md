@@ -3,10 +3,10 @@
 TODO list is a simple web application to save your daily tasks so you stay on track!
 
 ## Technologies used:
-HTML
-CSS
-Javascript
-Sublime Text Editor
+* HTML
+* CSS
+* Javascript
+* Sublime Text Editor
 
 ## Features
 * Task Creation API -via RESTful JSON API
